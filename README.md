@@ -4,7 +4,7 @@ Exception Realty Group Website
 
 #Description
 
-This is an example site for the intro to Front-end Web Development
+This is an example site for intro to Front-end Web Development
 
 
 # Contact
